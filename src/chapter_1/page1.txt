@@ -1,5 +1,3 @@
-This is my book.
+This is my book. It is really cool.
 My name is Sasha, hello.
-How are you doing?
-
-Java is cool.
+How are you doing? I am good.
