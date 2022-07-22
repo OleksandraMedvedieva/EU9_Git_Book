@@ -3,3 +3,7 @@ Notes for chapter 2
 
 
 some notes
+
+
+more java
+more fun hello world
